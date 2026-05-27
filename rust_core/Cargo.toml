@@ -1,0 +1,4 @@
+[package]
+name = "green_chips_core"
+version = "0.1.0"
+edition = "2021"
