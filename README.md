@@ -220,6 +220,8 @@ Green Chips does **NOT** claim:
 * [Middleware Design (`middleware_design.md`)](./docs/architecture/middleware_design.md) - ကျင့်ဝတ်ပိုင်းဆိုင်ရာ ကြားခံစနစ်၏ လုပ်ငန်းစဉ်နှင့် ဒီဇိုင်း။
 * [Scoring Engine (`scoring_engine.md`)](./docs/architecture/scoring_engine.md) - အလွန်မြန်ဆန်သော Rust Core တွက်ချက်မှု အင်ဂျင်၏ အလုပ်လုပ်ပုံ။
 * [All in one  (`ARCHITECTURE.md`)](./docs/architecture/ARCHITECTURE.md) - ရှင်းလင်းချက်များ
+* [Some Decussion With AI (`280520260641pm.md`)](./docs/research/ResearchWithAI/280520260641pm.md) - ရှင်းလင်းချက်
+
 
 ---
 
